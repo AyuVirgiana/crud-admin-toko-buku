@@ -1,0 +1,28 @@
+body h2{
+    font-size:38px;
+    font-family:harrington;
+    color:#002347;
+}
+
+body .btn{
+	float: right;
+	font-size: 14px;
+}
+
+table{
+    margin-top: 60px;
+    
+}
+
+tr{
+    background-color: whitesmoke;
+}
+
+#detail{
+    margin-bottom: 10px;
+}
+
+#ubah{
+    margin-bottom: 10px;
+}
+

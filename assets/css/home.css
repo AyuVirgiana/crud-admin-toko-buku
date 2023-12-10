@@ -1,0 +1,12 @@
+#header{
+   background: orange;
+   height: 400px;
+   font-family: 'Verdana';
+   padding-left: 50px;
+}
+
+/* Responsive*/
+    @media only screen and (max-width: 300px) {
+    .text {font-size: 11px}
+}
+  
